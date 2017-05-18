@@ -1,0 +1,10 @@
+/Users/gfournie/.brew/include/GLFW/glfw3.h
+/Users/gfournie/.brew/include/GLFW/glfw3native.h
+/Users/gfournie/.brew/lib/cmake/glfw3/glfw3Config.cmake
+/Users/gfournie/.brew/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/Users/gfournie/.brew/lib/cmake/glfw3/glfw3Targets.cmake
+/Users/gfournie/.brew/lib/cmake/glfw3/glfw3Targets-noconfig.cmake
+/Users/gfournie/.brew/lib/pkgconfig/glfw3.pc
+/Users/gfournie/.brew/lib/libglfw.3.2.dylib
+/Users/gfournie/.brew/lib/libglfw.3.dylib
+/Users/gfournie/.brew/lib/libglfw.dylib
